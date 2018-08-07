@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+header {
+  background-color: #fff;
+  height: 1.4009661836rem;
+  display: flex;
+  justify-content: space-around;
+}
+header span {
+  color: #ccc;
+  line-height: 1.4009661836rem;
+  text-align: center;
+  font-size: 0.5797101449rem;
+  width: 3.0434782609rem;
+}
+header span.active {
+  color: #000;
+  box-shadow: 0rem -0.1449275362rem yellowgreen inset;
+}
+
+/*# sourceMappingURL=index2.css.map */

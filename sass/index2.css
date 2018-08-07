@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+header {
+  background-color: #fff;
+  height: 1.40097rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+header span {
+  color: #ccc;
+  line-height: 1.40097rem;
+  text-align: center;
+  font-size: 0.57971rem;
+  width: 3.04348rem;
+}
+
+header span.active {
+  color: #000;
+  -webkit-box-shadow: 0rem -0.14493rem yellowgreen inset;
+          box-shadow: 0rem -0.14493rem yellowgreen inset;
+}
+/*# sourceMappingURL=index2.css.map */
