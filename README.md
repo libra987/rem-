@@ -1,3 +1,5 @@
-## 利用rem做布局
-1.二倍图
-2.三倍图
+### 利用rem做布局
+#### 方法
+1.利用sass的function工具
+2.利用vscode px to rem 插件
+
